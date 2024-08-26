@@ -6,4 +6,8 @@ public class HelloWorld
 	{
 		System.out.println("Hello.  It is Tuesday 1:27 pm");
 	}
+
+	public static void foo()
+	{
+	}
 }
